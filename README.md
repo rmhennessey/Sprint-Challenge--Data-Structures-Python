@@ -16,6 +16,8 @@ You have three hours to complete this Sprint Challenge. Plan your time according
 
 Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons) and it also helps your project manager to more thoroughly assess your work.
 
+GET GOING
+
 ## Description
 
 This Sprint Challenge is split into three parts:
